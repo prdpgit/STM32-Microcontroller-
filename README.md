@@ -31,4 +31,4 @@ Each IC has decoupling capacitors close to the power supply pins to reduce power
 The use of pull-up resistors on the reset line and buttons indicates attention to proper microcontroller reset and user input handling.
 
 ## Schematic:
-[Schematic.jpg](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/Schematic.jpg)https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/Schematic.jpg)
+![Schematic.jpg](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/Schematic.jpg)
