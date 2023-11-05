@@ -1,0 +1,42 @@
+Comment,Designator,Footprint,JLCPCB Part #
+10u,C1,Capacitor_SMD:C_1206_3216Metric,C1954312
+10u,"C2, C4",Capacitor_SMD:C_1206_3216Metric,C1954312
+10n,C3,Capacitor_SMD:C_1206_3216Metric,C77497
+10n,C5,Capacitor_SMD:C_0603_1608Metric,C2835533
+100n,"C6, C7, C11, C12, C15, C17, C18, C21",Capacitor_SMD:C_0402_1005Metric,C361203
+2u2,"C8, C13, C16",Capacitor_SMD:C_0603_1608Metric,C1953313
+4u7,C9,Capacitor_SMD:C_0603_1608Metric,C2844393
+12p,"C10, C14",Capacitor_SMD:C_0402_1005Metric,C76700
+10n,C19,Capacitor_SMD:C_0402_1005Metric,C386111
+1u,C20,Capacitor_SMD:C_0402_1005Metric,C913556
+16Mhz,Crystal1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C160456
+B5819W,"D1, D2",Diode_SMD:D_SOD-123,C779771
+Green,D3,LED_SMD:LED_0603_1608Metric,C397049
+Red,D4,LED_SMD:LED_0603_1608Metric,C90692
+250mA,F2,Fuse:Fuse_1206_3216Metric,C369159
+600 @ 600MHz,FB1,Inductor_SMD:L_0805_2012Metric,C1017
+MountingHole_Pad,"H1, H2, H3, H4",MountingHole:MountingHole_4.3mm_M4_Pad_Via,
+Screw_Terminal_01x02,J1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",
+Conn_01x12,J2,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical,
+USB_B_Micro,J3,Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal,
+SWD,J4,Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD,
+Conn_01x06,J5,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,
+Conn_01x04,"J6, J7",Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,
+10u,L1,Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm,C150031
+39u,L2,Inductor_SMD:L_0402_1005Metric,C26443
+AO3401A,Q1,Package_TO_SOT_SMD:SOT-23,C306862
+47k,R1,Resistor_SMD:R_0603_1608Metric,C227501
+15k,R2,Resistor_SMD:R_0603_1608Metric,C3152125
+270,R3,Resistor_SMD:R_0603_1608Metric,C667461
+100k,R4,Resistor_SMD:R_0603_1608Metric,C667752
+68k,R5,Resistor_SMD:R_0603_1608Metric,C912142
+22,"R6, R7, R8, R9",Resistor_SMD:R_0402_1005Metric,C174144
+10k,R10,Resistor_SMD:R_0402_1005Metric,C328298
+1k,"R11, R17",Resistor_SMD:R_0603_1608Metric,C269704
+2k2,"R12, R13, R14, R15",Resistor_SMD:R_0402_1005Metric,C3017487
+47,R16,Resistor_SMD:R_0402_1005Metric,C1096
+SW_SPDT,SW1,Button_Switch_SMD:SW_SPDT_PCM12,
+MP2359DJ-LF-Z,U1,Package_TO_SOT_SMD:SOT-23-6,C14259
+USBLC6-2SC6,U2,Package_TO_SOT_SMD:SOT-23-6,
+MPU-6050,U3,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,C24112
+STM32F405RGT6,U4,Package_QFP:LQFP-64_10x10mm_P0.5mm,C15742
