@@ -29,3 +29,6 @@ General PCB Design Notes:
 The schematic is organized into functional blocks, which simplifies the complexity and helps in understanding the circuit.
 Each IC has decoupling capacitors close to the power supply pins to reduce power supply noise and for maintaining signal integrity.
 The use of pull-up resistors on the reset line and buttons indicates attention to proper microcontroller reset and user input handling.
+
+## Schematic:
+![Schematic.jpg](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/Schematic.jpg)
