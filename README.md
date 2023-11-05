@@ -32,3 +32,10 @@ The use of pull-up resistors on the reset line and buttons indicates attention t
 
 ## Schematic:
 ![Schematic.jpg](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/Schematic.jpg)
+
+## PCB layout
+![PCB layout](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/PCB_page-0001.jpg)
+
+## 3D PCB render
+![PCB 3D1](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/STM32.jpg)
+![PCB 3D2](https://raw.githubusercontent.com/prdpgit/STM32-Microcontroller-/main/STM321.jpg)
